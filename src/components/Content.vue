@@ -1,7 +1,8 @@
 <template>
   <div class="maincontent">
     <section class="de">
-      <h2>Medin Biel, ab Oktober 2019</h2>
+      <h2>Medin Biel,
+        <br>ab Oktober 2019</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt voluptas
         nostrum nisi necessitatibus, itaque, impedit dolor totam nam velit atque
@@ -33,7 +34,9 @@
       </p>
     </section>
     <section class="fr">
-      <h2>Medin Bienne, des octobre 2019</h2>
+      <h2>Medin Bienne,
+        <br>
+        des octobre 2019</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt voluptas
         nostrum nisi necessitatibus, itaque, impedit dolor totam nam velit atque
@@ -71,7 +74,10 @@ export default {};
 
 <style lang="stylus" scoped>
 .maincontent 
-  padding: 0.5rem;
+  padding: 1rem;
+  @media screen and (min-width: 1200px) {
+    padding: 0;
+  }
 
 section {
   margin-bottom: 2rem;

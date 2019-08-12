@@ -37,7 +37,7 @@ export default {
   height: 2.5rem;
   padding-left: 1rem;
 
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 1200px) {
     padding-left: 0;
   }
 }
