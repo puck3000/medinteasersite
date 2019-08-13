@@ -34,7 +34,7 @@ html, body, #app {
   padding: 0;
 }
 
-main {
+.video {
   max-width: 1200px;
   margin: auto;
 }

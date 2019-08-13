@@ -74,6 +74,8 @@ export default {};
 
 <style lang="stylus" scoped>
 .maincontent 
+  max-width: 1200px;
+  margin: auto;
   padding: 1rem;
   @media screen and (min-width: 1200px) {
     padding: 0;

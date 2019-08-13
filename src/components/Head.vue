@@ -46,7 +46,7 @@ header {
 
 h1, h2 {
   margin: 0;
-  display: inline;
+  display: inline-block;
 }
 
 h2 {
