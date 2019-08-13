@@ -56,7 +56,7 @@ h2 {
   line-height: 1.2;
   text-transform: none;
   color: #F5F5F5;
-  font-weight: 300;
+  font-weight: 400;
   padding-left: 1rem;
 }
 </style>

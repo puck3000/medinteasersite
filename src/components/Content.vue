@@ -93,17 +93,25 @@ section {
   }
 }
 
-ul li 
-  // list-style-image: url('~/assets/')
-  &:hover 
-    color: blue
-  a 
-    text-decoration: none
+ul 
+  position: relative;
+  list-style: none;
+  margin-left: 0;
+  padding-left: 2rem;
+  li 
+    &::before 
+      content: "→";
+      position: absolute;
+      left: 0;
+      transition: left .3s ease-in-out
+    &:hover 
+      color: blue
+      &::before 
+        left: .25rem
+    a 
+      text-decoration: none
 
 p 
   margin-bottom: 1rem
 
 </style>
-
-
-

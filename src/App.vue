@@ -5,6 +5,7 @@
       <Youtube />
       <Content />
     </main>
+    <Foot />
   </div>
 </template>
 
@@ -12,11 +13,13 @@
 import Head from "./components/Head.vue";
 import Youtube from "./components/Youtube.vue";
 import Content from "./components/Content.vue";
+import Foot from "./components/Foot.vue";
 export default {
   components: {
     Head,
     Youtube,
-    Content
+    Content,
+    Foot
   }
 };
 </script>
