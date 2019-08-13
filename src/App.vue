@@ -2,7 +2,9 @@
   <div id="app">
     <Head />
     <main>
-      <Youtube />
+      <div class="video">
+        <Video />
+      </div>
       <Content />
     </main>
     <Foot />
@@ -11,13 +13,13 @@
 
 <script>
 import Head from "./components/Head.vue";
-import Youtube from "./components/Youtube.vue";
+import Video from "./components/Video.vue";
 import Content from "./components/Content.vue";
 import Foot from "./components/Foot.vue";
 export default {
   components: {
     Head,
-    Youtube,
+    Video,
     Content,
     Foot
   }
@@ -35,6 +37,10 @@ html, body, #app {
 main {
   max-width: 1200px;
   margin: auto;
+}
+
+.video {
+  width: 100%;
 }
 </style>
 
