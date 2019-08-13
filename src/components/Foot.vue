@@ -14,27 +14,45 @@
       <p>
         <a href="mailto:xy@xaasd.ch">E-Mail</a>
       </p>
-      <p>
+      <p class="last">
         <a href="https://medin-bielbienne.ch">medin-bielbienne.ch</a>
       </p>
+      <a id="hellalink" href="https://www.hellastudio.ch/" target="_blank" rel="noopener">
+        <Hellasmile :color="color" />
+      </a>
     </div>
   </footer>
 </template>
 
 <script>
-export default {};
+import Hellasmile from "./Hellasmile.vue";
+export default {
+  components: {
+    Hellasmile
+  },
+  data() {
+    return {
+      color: "#F5F5F5"
+    };
+  }
+};
 </script>
 
 <style lang="stylus" scoped>
 footer {
   background-color: blue;
   color: #F5F5F5;
-  padding: 2rem 0.5rem;
+  padding: 2rem 1rem;
 }
 
 .innerFooter {
   max-width: 1200px;
+  position: relative;
   margin: auto;
+
+  p.last {
+    display: inline-block;
+  }
 }
 
 .bmarg1 {
@@ -48,6 +66,12 @@ a {
     text-decoration: underline;
     color: #F5F5F5;
   }
+}
+
+#hellalink {
+  position: absolute;
+  right: 1rem;
+  display: inline-block;
 }
 </style>
 

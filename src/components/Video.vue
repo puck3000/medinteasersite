@@ -1,5 +1,5 @@
 <template>
-  <video controls autoplay loop plays-inline poster="@/assets/img/Poster.png">
+  <video controls autoplay loop plays-inline playsinline poster="@/assets/img/Poster.png">
     <source src="@/assets/video/medinTeaser.mp4" type="video/mp4" />
     <source src="@/assets/video/medinTeaser.webm" type="video/webm" />
     <p>
@@ -18,6 +18,9 @@ export default {};
 <style lang="stylus" scoped>
 video {
   width: 100%;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
+  @media screen and (min-width: 1200px) {
+      margin-bottom 2rem
+  }
 }
 </style>
