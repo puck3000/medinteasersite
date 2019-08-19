@@ -17,7 +17,13 @@
       <p class="last">
         <a href="https://medin-bielbienne.ch">medin-bielbienne.ch</a>
       </p>
-      <a id="hellalink" href="https://www.hellastudio.ch/" target="_blank" rel="noopener">
+      <a
+        id="hellalink"
+        href="https://www.hellastudio.ch/"
+        target="_blank"
+        rel="noopener"
+        aria-label="Link to Hella Studio"
+      >
         <Hellasmile :color="color" />
       </a>
     </div>
