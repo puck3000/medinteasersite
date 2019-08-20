@@ -1,7 +1,7 @@
 <template>
   <video controls autoplay loop plays-inline playsinline poster="@/assets/img/Poster.jpg">
-    <source src="@/assets/video/medinTeaser.mp4" type="video/mp4" />
-    <source src="@/assets/video/medinTeaser.webm" type="video/webm" />
+    <source src="@/assets/video/medinTeaserNew.mp4" type="video/mp4" />
+    <source src="@/assets/video/medinTeaserNew.webm" type="video/webm" />
     <p>
       Your browser doesn't support HTML5 video. Here is a
       <a
