@@ -4,23 +4,28 @@
       <h2>Medin Biel,
         <br>ab Oktober 2019</h2>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt voluptas
-        nostrum nisi necessitatibus, itaque, impedit dolor totam nam velit atque
-        dignissimos consequuntur sunt odit voluptate blanditiis magni at labore
-        sequi aspernatur mollitia beatae vero, inventore placeat corporis. Minima,
-        fugiat corporis!
+        Die Nähe eines Hausarztes, die Spezialkenntnis einer Fachärztin und die
+        Infrastruktur eines Spitals – alles auf einem Stockwerk direkt beim
+        Bahnhof.
+        <br>
+        <br>
+        Jetzt einen dringenden Termin bei einem Hausarzt? 
+        <br>
+        Localmed Biel <a href="tel:+41323295500">032 329 55 00</a>  
+        <br>
+        <br>
+        Jetzt einen dringenden Termin bei einer Gynäkologin?
+        <br>
+        Gyn. Ambulatorium SZB AG <a href="tel:+41323242233">032 324 22 33</a>
       </p>
       <p>
-        Mehr informationen
-        <a href="tel:+410320000000">032 000 00 00</a> oder
-        <a href="mailto:xy@xaasd.ch">E-Mail</a>
         <ul>
           <li>
-            <a href="#">
+            <a href="/downloads/190401_MM_Gesundheitszentrum_am_Bahnhof_SZB.pdf" target="_blank" rel="noopener">
               Infos für Medien
             </a>
           </li>
-          <li>
+          <!-- <li>
             <a href="#">
               Infos für ÄrztInnen
             </a>
@@ -29,31 +34,38 @@
             <a href="#">
               Infos für Patienten
             </a>
-          </li>
+          </li> -->
         </ul>
       </p>
     </section>
     <section class="fr">
       <h2>Medin Bienne,
         <br>
-        des octobre 2019</h2>
+        dès octobre 2019</h2>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt voluptas
-        nostrum nisi necessitatibus, itaque, impedit dolor totam nam velit atque
-        dignissimos consequuntur sunt odit voluptate blanditiis magni at labore
-        sequi aspernatur mollitia beatae vero, inventore placeat corporis. Minima,
-        fugiat corporis!
+        La proximité d’un médecin de famille, les connaissances spécifiques d’un
+        médecin spécialiste et de l’infrastructure hospitalière – le tout au
+        même étage directement à la gare.
+        <br>
+        <br>
+        Pour un rendez-vous urgent chez un médecin de famille: 
+        <br>
+        Localmed Bienne <a href="tel:+41323295500">032 329 55 00</a>  
+        <br>
+        <br>
+        Pour un rendez-vous urgent gynécologique: 
+        <br>
+        Service ambulatoire de gynécologie CHB <a href="tel:+41323242233">032 324 22 33</a>
+
       </p>
-      <p>Mehr informationen
-        <a href="tel:+410320000000">032 000 00 00</a> oder
-        <a href="mailto:xy@xaasd.ch">E-Mail</a>
+      <p>
         <ul>
           <li>
-            <a href="#">
-              Infos für Medien
+            <a href="/downloads/190401_MM_Centre_de_sante_a_la_gare_CHB.pdf" target="_blank" rel="noopener">
+              Infos pour les médias
             </a>
           </li>
-          <li>
+          <!-- <li>
             <a href="#">
               Infos für ÄrztInnen
             </a>
@@ -62,8 +74,9 @@
             <a href="#">
               Infos für Patienten
             </a>
-          </li>
-        </ul></p>
+          </li> -->
+        </ul>
+      </p>
     </section>
   </div>
 </template>
