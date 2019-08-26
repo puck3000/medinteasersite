@@ -4,15 +4,17 @@
       <h2>MEDIN Biel/Bienne</h2>
       <p class="bmarg1">
         <a href="https://goo.gl/maps/nq5QtWm4yNP9wBJj7" target="_blank" rel="noopener">
-          Bahnhofplatz 2c
-          <br />2502 Biel/Bienne
+          Bahnhofplatz 2c / Place de la Gare 2c
+          <br />2502 Biel / Bienne
         </a>
       </p>
       <p>
-        <a href="tel:+410320000000">032 000 00 00</a>
+        <a href="tel:+410323243848">032 324 38 48</a>
       </p>
       <p>
-        <a href="mailto:xy@xaasd.ch">E-Mail</a>
+        <a href="mailto:direktion@szb-chb.ch">direktion@szb-chb.ch</a>
+        /
+        <a href="mailto: direction@szb-chb.ch">direction@szb-chb.ch</a>
       </p>
       <p class="last">
         <a href="https://medin-bielbienne.ch">medin-bielbienne.ch</a>
