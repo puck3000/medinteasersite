@@ -7,8 +7,9 @@
     playsinline
     poster="SocialImgs/MEDIN-BielBiennne_FB_Image_1200x630.jpg"
   >
-    <source src="video/medinTeaser.mp4" type="video/mp4" />
-    <source src="video/medinTeaser.webm" type="video/webm" />
+    <source src="video/MedinTeaser.mov" type="video/mov" />
+    <source src="video/MedinTeaser.mp4" type="video/mp4" />
+    <source src="video/MedinTeaser.webm" type="video/webm" />
     <p>
       Your browser doesn't support HTML5 video. Here is a
       <a
