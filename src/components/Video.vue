@@ -1,7 +1,14 @@
 <template>
-  <video controls autoplay loop plays-inline playsinline poster="@/assets/img/Poster.jpg">
-    <source src="@/assets/video/medinTeaser.mp4" type="video/mp4" />
-    <source src="@/assets/video/medinTeaser.webm" type="video/webm" />
+  <video
+    controls
+    autoplay
+    loop
+    plays-inline
+    playsinline
+    poster="SocialImgs/MEDIN-BielBiennne_FB_Image_1200x630.jpg"
+  >
+    <source src="video/medinTeaser.mp4" type="video/mp4" />
+    <source src="video/medinTeaser.webm" type="video/webm" />
     <p>
       Your browser doesn't support HTML5 video. Here is a
       <a
@@ -25,3 +32,5 @@ video {
   }
 }
 </style>
+
+
